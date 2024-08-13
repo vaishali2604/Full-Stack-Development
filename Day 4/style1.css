@@ -1,0 +1,70 @@
+*{
+  text-decoration: none;
+  
+}
+
+    
+
+.main {
+       background-size: cover;
+       padding: 135px;
+       width: 490px;
+       height: 20vh;
+       background-image: url(https://images.pexels.com/photos/5220093/pexels-photo-5220093.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+       text-align: right;
+          
+    }
+
+    .main > button {
+        margin: auto;
+        margin-right: 70px;
+        background-color: lightgoldenrodyellow;
+        color: black;
+        border-radius: 2px;
+    
+    }
+
+    .navdiv {
+      background: white;
+       font-family: 'Times New Roman', Times, serif;
+       /* padding-right: 15px; 
+        padding-left: 15px; */
+        color: black;
+        
+    }
+
+    li {
+      list-style: none;
+      display: inline-block;
+    }
+
+    li a{
+      color: black;
+      font-size: 10px;
+      font-weight: bold;
+      margin-right: 25px;
+      
+    }
+
+    .menu {
+      display: flex;
+      text-align: center;
+    }
+
+    li a:hover {
+      background-color: rgb(255, 82, 82);
+    }
+   
+    form{
+      margin-top: -1%;
+      
+    }
+
+   .btn{
+    margin-top: -6%;
+    
+   }
+
+    
+       
+    

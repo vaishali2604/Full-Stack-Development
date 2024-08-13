@@ -1,0 +1,25 @@
+/*tgName*/
+h1 {
+    color: rgb(255, 153, 0);
+}
+/*using id*/
+#heading {
+    color: blue;
+}
+
+/*using class*/
+.headingh1{
+    color: blue;
+}
+/*id>>class>>tagName */
+
+#secondary_heading{
+    color: blue;
+    background-color: aqua;
+    padding: 20PX;
+
+}
+/* used to remove the bullet points and numbering from the list*/
+ul{
+    list-style: none;
+}
